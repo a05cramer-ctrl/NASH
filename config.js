@@ -1,1 +1,1 @@
-window.NASH_CFG = { NAME:'NASH', TICKER:'$NASH', CA:'', CHAIN:'solana', PAD:'pumpfun', PAIR:'', X:'', BUY:'', CHART:'' };
+window.NASH_CFG = { NAME:'NASH', TICKER:'$NASH', CA:'AsMf6KxLiSiwjQdcf5aTkaKCWJAgFbGFFTvvjjC1pump', CHAIN:'solana', PAD:'pumpfun', PAIR:'', X:'https://x.com/playnashroom', BUY:'https://pump.fun/coin/AsMf6KxLiSiwjQdcf5aTkaKCWJAgFbGFFTvvjjC1pump', CHART:'https://gmgn.ai/sol/token/AsMf6KxLiSiwjQdcf5aTkaKCWJAgFbGFFTvvjjC1pump' };
